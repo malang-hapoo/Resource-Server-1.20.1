@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": [
+      { "text": "Alpha Test"},
+      { "text": "\n" },
+      { "text": "by Mukkang", "bold": true, "color": "aqua" }
+    ]
+  }
+}

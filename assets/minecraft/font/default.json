@@ -1,0 +1,32 @@
+{
+  "providers": [
+    {
+      "file": "minecraft:font/none.png",
+      "type": "bitmap",
+      "chars": ["😀"],
+      "ascent": -32768,
+      "height": -10
+    },
+    {
+      "file": "minecraft:font/test.png",
+      "type": "bitmap",
+      "chars": ["😁"],
+      "ascent": 13,
+      "height": 256
+    },
+    {
+      "file": "minecraft:font/enhance.png",
+      "type": "bitmap",
+      "chars": ["😂"],
+      "ascent": 13,
+      "height": 256
+    },
+    {
+        "type": "ttf",
+        "file": "minecraft:font.ttf",
+        "shift": [0, 1],
+        "size": 9.0,
+        "oversample": 4
+    }
+  ]
+}
